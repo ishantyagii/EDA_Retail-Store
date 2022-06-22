@@ -2,7 +2,7 @@
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ https://bit.ly/3i4rbWl
 
-OBJECTIVE
+PROBLEM STATEMENT
 
 ● Find out weak areas where we need to work in order to increase profit.
 
