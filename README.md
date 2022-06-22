@@ -4,6 +4,6 @@ Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ https:
 
 OBJECTIVE
 
-● As an data analyst, try to find out the weak areas where you can work to make more profit.
+● Find out weak areas where we need to work in order to increase profit.
 
 ● What business problems do you encounter on exploring the data? What is your approach to solve them?
